@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "305373806422",
+    "project_id": "crypto-wallet-45662",
+    "storage_bucket": "crypto-wallet-45662.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305373806422:android:f7051740621213cbefe0f7",
+        "android_client_info": {
+          "package_name": "com.example.cex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeAySyYcxVys6tgF9xv5PGQAMjRBGrjvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
