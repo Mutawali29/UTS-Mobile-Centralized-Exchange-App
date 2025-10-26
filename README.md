@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cex
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# UAS-Mobile-Centralized-Exchange-App
+>>>>>>> 9590ec85af11e0d7b44e34b84376cf9cc4646e14
